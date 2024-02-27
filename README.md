@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Metrics](/github-metrics.svg)
+
+Set metrics as column layout, not showing everything now xD adding this to see if everything will show
