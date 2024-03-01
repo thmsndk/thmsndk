@@ -66,9 +66,4 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          plugin_repositories: yes
-          plugin_repositories_featured: adventureland, Screeps3D
-          plugin_repositories_order: featured, pinned, starred, random
-          plugin_repositories_pinned: 2
-          plugin_repositories_random: 2
           repositories_forks: yes
